@@ -1,0 +1,6 @@
+{
+  "name": "UC Admissions",
+  "tagline": "Data Analysis & Models for Admissions to UC based on HS GPA & Demographics",
+  "body": "# Data Analysis & Models for Admissions to UC based on HS GPA & Demographics\r\n\r\n\r\nThis project creates a model that predicts admission into the UC system based on data about a student's GPA and high school. The model is 93% accurate on simulated data.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
